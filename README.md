@@ -1,1 +1,1 @@
-# Humidity-Predict-Multiple-Linear-Regression-
+# Humidity-Predict-MultipleLinearRegression-
